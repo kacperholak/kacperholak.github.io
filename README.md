@@ -1,3 +1,7 @@
+---
+permalink: /src/index.js
+---
+
 # Tunis Personal Portfolio React Template
 
 ## Description
